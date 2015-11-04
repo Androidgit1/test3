@@ -1,6 +1,3 @@
 du lieu
-<<<<<<< .merge_file_a01000
 edit
-=======
 du lieu1
->>>>>>> .merge_file_a03688
