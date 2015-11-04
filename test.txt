@@ -1,4 +1,8 @@
 du lieu
+<<<<<<< HEAD
 edit
 du lieu1
 
+=======
+du lieu1
+>>>>>>> 11fd7852c306ce2429d01735774ae94de4b759fa
