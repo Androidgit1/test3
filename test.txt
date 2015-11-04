@@ -1,8 +1,3 @@
-du lieu
-<<<<<<< HEAD
-edit
-du lieu1
+a
+<<<<<<< Temporary merge branch 1
 
-=======
-du lieu1
->>>>>>> 11fd7852c306ce2429d01735774ae94de4b759fa
